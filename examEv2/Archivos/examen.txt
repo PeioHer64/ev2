@@ -1,0 +1,24 @@
+Id:1
+ Titulo:Programacion en Java
+ Autor:Juan Torres
+ Editorial:Elorrieta
+ FechaPubli:2020-01-01
+
+Id:2
+ Titulo:SQL y las BBDD
+ Autor:Ana Perez
+ Editorial:Bilbao Editorial
+ FechaPubli:2019-01-01
+
+Id:3
+ Titulo:Entornos Desarrollo
+ Autor:Kepa Ortiz
+ Editorial:Elorrieta
+ FechaPubli:2023-01-01
+
+Id:4
+ Titulo:Java Avanzado
+ Autor:Juan Torres
+ Editorial:Elorrieta
+ FechaPubli:2022-01-01
+
